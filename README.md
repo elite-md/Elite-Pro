@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github.com/Elite-Pro-Bot/Elite-Pro/fork" />
+    <img alt="Forks" src="https://img.shields.io/github.com/Elite-Pro-Bot/Elite-Pro" />
   </a>
 
    ***Fork Repo***
