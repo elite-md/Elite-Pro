@@ -9,5 +9,8 @@
 </h1>
 <p align="center"> 
     </p>
+    
+
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+ELITE+PRO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
   # Elite-Pro
 A whatsApp bot with rich features Created by Chinwo Chinedu Emmanuel.
