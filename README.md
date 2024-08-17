@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/GRIeuAnUgk54u2IL5ujUxJ">
-    <img alt=Support height="250" src="https://files.fm/u/9eetxjn6kq.jpg"> 
+    <img alt=Support height="250" src=""> 
     </p>
 <h1 align="center">    ᴇʟɪᴛᴇ-ᴘʀᴏ
 </h1>
@@ -19,7 +19,12 @@
   <a href="" target="_blank">
     <img alt="Forks" src="https://img.shields.io/github.com/Elite-Pro-Bot/Elite-Pro/fork" />
   </a>
-  
+
+   ***Fork Repo***
+ ***[FORK](https://github.com/Elite-Pro-Bot/Elite-Pro/fork)***
+
+    FORK FIRST THE REPO
+---
 
   
   # Elite-Pro
