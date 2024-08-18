@@ -23,6 +23,7 @@
     <img alt="Forks" src="https://img.shields.io/github.com/Elite-Pro-Bot/Elite-Pro" />
   </a>
 
+---
 
 ## DEPLOYMENT METHODS
 ---
