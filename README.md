@@ -14,12 +14,12 @@
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+ELITE+PRO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
    
 
-
-<p align="left">
-  <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github.com/Elite-Pro-Bot/Elite-Pro" />
+<a aria-label="Chat me" href="https://t.me/Chinedu_md" target="_blank">
+    <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  
 
+---
 
 ## DEPLOYMENT METHODS
 ---
