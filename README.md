@@ -15,7 +15,7 @@
    
 
 <a aria-label="Chat me" href="https://t.me/Chinedu_md" target="_blank">
-    <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="telegram" src="https://img.shields.io/badge/Chat Me-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   
 
