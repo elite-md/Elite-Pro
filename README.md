@@ -18,10 +18,6 @@
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   
-<p align="left">
-  <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github.com/Elite-Pro-Bot/Elite-Pro" />
-  </a>
 
 ---
 
