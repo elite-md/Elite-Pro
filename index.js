@@ -9,7 +9,7 @@ const fs = require('fs');
 const pino = require('pino');
 
 // Path to store auth state files
-const AUTH_STATE_PATH = './auth_info_multi'; 
+const AUTH_STATE_PATH = './auth_info_multi';
 
 // Function to start the bot
 async function startBot() {
@@ -42,15 +42,14 @@ async function startBot() {
         }
     });
 
-    sock.ev.on('creds.update', saveCreds); 
+    sock.ev.on('creds.update', saveCreds);
 
     // Handle incoming messages
     sock.ev.on('messages.upsert', async ({ messages }) => {
         const message = messages[0];
 
         if (!message.key.fromMe && message.key.remoteJid) {
-            console.log(Received message from ${message.key.remoteJid}: ${message.message.conversation});
-            // Add your message handling logic here
+            console.lo(message)
         }
     });
 }
