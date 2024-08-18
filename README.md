@@ -21,7 +21,7 @@
   </a>
 
 
-## Deployment Methods
+## DEPLOYMENT METHODS
 ---
    ***Fork Repo***
  ***[FORK](https://github.com/Elite-Pro-Bot/Elite-Pro/fork)***
@@ -33,8 +33,8 @@
 
 
 
-  ## Elite-Pro
-  A whatsApp bot with rich features Created by Chinwo Chinedu Emmanuel.
+  ## DESCRIPTION
+I'm Elite-Pro a public WhatsApp bot with rich features Created by Chinwo Chinedu Emmanuel and Hacxk. Feel free to deploy my bot in any of the deployment site. 😜
 
  --- 
 - Star ⭐ repo if you like this bot.
