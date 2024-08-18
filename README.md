@@ -20,12 +20,21 @@
     <img alt="Forks" src="https://img.shields.io/github.com/Elite-Pro-Bot/Elite-Pro" />
   </a>
 
+
+## Deployment Methods
+---
    ***Fork Repo***
  ***[FORK](https://github.com/Elite-Pro-Bot/Elite-Pro/fork)***
-
+ 
     FORK MY REPO TO GAIN FULL ACCESS
 ---
 
-  
+
+
+
+
   # Elite-Pro
-A whatsApp bot with rich features Created by Chinwo Chinedu Emmanuel.
+  A whatsApp bot with rich features Created by Chinwo Chinedu Emmanuel.
+
+ --- 
+- Star ⭐ repo if you like this bot.
