@@ -23,7 +23,7 @@
    ***Fork Repo***
  ***[FORK](https://github.com/Elite-Pro-Bot/Elite-Pro/fork)***
 
-    FORK FIRST THE REPO
+    FORK MY REPO TO GAIN FULL ACCESS
 ---
 
   
